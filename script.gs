@@ -1,7 +1,7 @@
 // This Google Sheets script will post to a Flock channel when a user submits data to a Google Forms Spreadsheet
 // Don't forget to change the required Flock information below.
 
-// Source: 
+// Source: https://github.com/dgandhi1993/flock-google-sheet-integration
 
 // Alter this to match the incoming webhook url provided by Flock
 var flockIncomingWebhookUrl = 'https://api.flock.com/hooks/sendMessage/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx';
